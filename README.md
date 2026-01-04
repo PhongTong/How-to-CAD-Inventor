@@ -232,7 +232,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 
 **Session Activity:** We’ll design a variety of items, including:
 * A classic [150ml](https://m.media-amazon.com/images/I/71g+q5PnDQL._UF894,1000_QL80_.jpg) Diet Coke can (with labels included).
-* A model of the [X-wing](https://lumiere-a.akamaihd.net/v1/images/X-Wing-Fighter_47c7c342.jpeg?region=0%2C1%2C1536%2C864) fighter.
+* A model of the [X-wing](https://lumiere-a.akamaihd.net/v1/images/X-Wing-Fighter_47c7c342.jpeg?region=0%2C1%2C1536%2C864) Fighter.
 
 **Session Recordings:** 
 * Asynchronous: To be posted.
@@ -243,6 +243,12 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 <img src="https://github.com/andyeske/How-to-CAD-Inventor/blob/main/Session%20Files/Session%204.5/Diet%20Coke.png" width="500"> 
 
 **Figure:** _A classic Diet Coke can_.
+</p>
+
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Inventor/blob/main/Session%20Files/Session%204.5/X-wing%20Fighter.png" width="500"> 
+
+**Figure:** _A model of the X-wing Fighter_!
 </p>
 
 ([ back to top ](#back_to_top))
