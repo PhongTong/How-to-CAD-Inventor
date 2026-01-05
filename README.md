@@ -226,16 +226,16 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 ### (BONUS) Session 4.5: Let's have a 3D-modeled Coke in a Galaxy Far, Far Away!
 (online only)
 
-**Objective:** In this session, we’ll revise all of our previously learned commands (+ the useful wrap), to make sure we know how to properly use all of them. Session 4.5’s goals include: 
+**Objective:** In this session, we’ll revise all of our previously learned commands (plus the useful emboss), to make sure we know how to properly use all of them. Session 4.5’s goals include: 
 * Revising some of the previously learned commands, including loft, revolve, sweep, plane creations, patterns, filleting, and material properties.
-* Learning how to employ the wrap command (for engravings).
+* Learning how to employ the emboss command (for engravings).
 
 **Session Activity:** We’ll design a variety of items, including:
 * A classic [150ml](https://m.media-amazon.com/images/I/71g+q5PnDQL._UF894,1000_QL80_.jpg) Diet Coke can (with labels included).
 * A model of the [X-wing](https://lumiere-a.akamaihd.net/v1/images/X-Wing-Fighter_47c7c342.jpeg?region=0%2C1%2C1536%2C864) Fighter.
 
 **Session Recordings:** 
-* Asynchronous: To be posted.
+* Asynchronous: https://youtu.be/tABB7YkgDAA.
 
 **Session File Parts:** Available at the [Session 4.5](https://github.com/andyeske/How-to-CAD-Inventor/tree/main/Session%20Files/Session%204.5) folder.
 
