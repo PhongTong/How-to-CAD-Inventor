@@ -266,7 +266,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 **Session Activity:** Using the tools learned on Session 5, we’ll design a variety of items, including:
 * A standard [2x4 LEGO Brick](https://p.turbosquid.com/ts-thumb/I9/hYi8QZ/QyaXDmfH/lego_brick_2x4_earth_green_thumbnail_0000/jpg/1558617193/1920x1080/fit_q87/7a98b66fde1c475f97f5367029078a34496d722e/lego_brick_2x4_earth_green_thumbnail_0000.jpg) (as well as numerous others)!
 * A simple [LEGO Tower Bridge](https://i.ytimg.com/vi/6iJMdX7n_7I/maxresdefault.jpg) assembly.
-* An engineering drawing of the Tower Bridge assembly and one of the LEGO bricks.
+* An engineering drawing of one of the LEGO bricks.
 * BONUS: A playmobil [figure](https://i.pinimg.com/736x/0c/56/7e/0c567ed6171f3b0e642cc5b6a3ad9fc7.jpg).
 
 **Session Recordings:** 
@@ -285,6 +285,12 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 <img src="https://github.com/andyeske/How-to-CAD-Inventor/blob/main/Session%20Files/Session%205/LEGO%20Tower%20Bridge%20Assembly.png" width="500"> 
 
 **Figure:** _A simple LEGO Tower Bridge assembly_.
+</p>
+
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Inventor/blob/main/Session%20Files/Session%205/LEGO%202x4%20Brick%20Drawing.png" width="500"> 
+
+**Figure:** _An engineering drawing of the 2x4 LEGO Brick_.
 </p>
 
 ([ back to top ](#back_to_top))
