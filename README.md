@@ -293,6 +293,12 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 **Figure:** _An engineering drawing of the 2x4 LEGO Brick_.
 </p>
 
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Inventor/blob/main/Session%20Files/Session%205/Playmobil.png" width="500"> 
+
+**Figure:** _A playmobil figure_.
+</p>
+
 ([ back to top ](#back_to_top))
 
 ---
