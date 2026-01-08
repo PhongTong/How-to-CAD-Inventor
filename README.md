@@ -270,7 +270,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 * BONUS: A playmobil [figure](https://i.pinimg.com/736x/0c/56/7e/0c567ed6171f3b0e642cc5b6a3ad9fc7.jpg) and an engineering drawing of its assembly.
 
 **Session Recordings:** 
-* Asynchronous: To be posted.
+* Asynchronous: https://youtu.be/YZEeK_jRBfs.
 * In-person: To be posted.
 
 **Session Slides and File Parts:** Available at the [Session 5](https://github.com/andyeske/How-to-CAD-Inventor/tree/main/Session%20Files/Session%205) folder.
