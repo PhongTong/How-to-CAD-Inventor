@@ -323,10 +323,10 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 
 ---
 <a name="S6"></a>
-### Session 6: Variable Tables and Equations!
+### Session 6: Parameters and Equations!
 (Thursday, January 29)
 
-**Objective:** In this session, we'll investigate two often underappreciated yet extremely useful tools, parameters and equations. These tools allow the user to create various configurations of the same model, depending on specific needs. Session 6’s goals include: 
+**Objective:** In this session, we'll investigate two often underappreciated yet extremely useful tools, parameters and equations. These tools allow the user to create various configurations of the same model, which can vary in size, shape, and even color! Session 6’s goals include: 
 * Learning how to create parameters and equations.
 * Creating configurations of the same model.
 
