@@ -267,7 +267,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 * A standard [2x4 LEGO Brick](https://p.turbosquid.com/ts-thumb/I9/hYi8QZ/QyaXDmfH/lego_brick_2x4_earth_green_thumbnail_0000/jpg/1558617193/1920x1080/fit_q87/7a98b66fde1c475f97f5367029078a34496d722e/lego_brick_2x4_earth_green_thumbnail_0000.jpg) (as well as numerous others)!
 * A simple [LEGO Tower Bridge](https://i.ytimg.com/vi/6iJMdX7n_7I/maxresdefault.jpg) assembly.
 * An engineering drawing of one of the LEGO bricks.
-* BONUS: A playmobil [figure](https://i.pinimg.com/736x/0c/56/7e/0c567ed6171f3b0e642cc5b6a3ad9fc7.jpg) and an engineering drawing of its assembly.
+* A playmobil [figure](https://i.pinimg.com/736x/0c/56/7e/0c567ed6171f3b0e642cc5b6a3ad9fc7.jpg) and an engineering drawing of its assembly.
 
 **Session Recordings:** 
 * Asynchronous: https://youtu.be/YZEeK_jRBfs.
@@ -326,8 +326,8 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 ### Session 6: Variable Tables and Equations!
 (Thursday, January 29)
 
-**Objective:** In this session, we'll investigate two often underappreciated yet extremely useful tools, parameter tables and equations/expressions. These tools allow the user to create various configurations of the same model, depending on specific needs. Session 6’s goals include: 
-* Learning how to create equations and incorporate them into a parameter table.
+**Objective:** In this session, we'll investigate two often underappreciated yet extremely useful tools, parameters and equations. These tools allow the user to create various configurations of the same model, depending on specific needs. Session 6’s goals include: 
+* Learning how to create parameters and equations.
 * Creating configurations of the same model.
 
 **Session Activity:** Using the tools learned on Session 6, we’ll design a variety of items, including:
@@ -338,6 +338,30 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 * In-person: To be posted.
 
 **Session Slides and File Parts:** Available at the [Session 6](https://github.com/andyeske/How-to-CAD-Inventor/tree/main/Session%20Files/Session%206) folder.
+
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Inventor/blob/main/Session%20Files/Session%206/Economy%20Seat%20Front.png" width="500"> 
+
+**Figure:** _A 3-abreast airplane economy seat - front view (inspired from the Collins Meridian model)_.
+</p>
+
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Inventor/blob/main/Session%20Files/Session%206/Economy%20Seat%20Back.png" width="500"> 
+
+**Figure:** _A 3-abreast airplane economy seat - back view_.
+</p>
+
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Inventor/blob/main/Session%20Files/Session%206/Mock%20Cabin%20Outer.png" width="500"> 
+
+**Figure:** _Mock cabin with the 3-abreast configuration - outer view_.
+</p>
+
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Inventor/blob/main/Session%20Files/Session%206/Mock%20Cabin%20Inner.png" width="500"> 
+
+**Figure:** _Mock cabin with the 3-abreast configuration - inner view_.
+</p>
 
 ([ back to top ](#back_to_top))
 
