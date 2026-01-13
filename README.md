@@ -73,6 +73,18 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 **Figure:** _A first-generation iPod USB Power Adapter_.
 </p>
 
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Inventor/blob/main/Session%20Files/Session%201/iPod%20Nano.png" width="500"> 
+
+**Figure:** _(In-person Session 1) An iPod Nano_.
+</p>
+
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Inventor/blob/main/Session%20Files/Session%201/iPhone%20Charger.png" width="500"> 
+
+**Figure:** _(In-person Session 1) An iPhone adapter_.
+</p>
+
 ([ back to top ](#back_to_top))
 
 ---
