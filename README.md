@@ -373,4 +373,4 @@ To be posted!
 
 ## Enrollment Statistics
 
-To be posted!
+How to CAD Almost Anything: MIT IAP 2026 saw a total of 112 students enrolled, hailing from: Course 1 (3.6%) | 2 (22.3%) | 3 (4.5%) | 4 (0.9%) | 6 (11.6%) | 7 (0.9%) | 8 (3.6%) | 9 (0.9%) | 10 (0.9%) | 11 (3.6%) | 16 (7.1%) | 18 (1.8%) | 20 (2.7%) | 22 (0.9%) | IDSS (0.9%) | Media Lab (1.8%) | SDM (2.7%) | Sloan (6.3%) | Undeclared Major (3.6%) and Community Members (18.8%).
