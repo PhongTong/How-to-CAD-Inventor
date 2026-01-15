@@ -118,6 +118,12 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 **Figure:** _A sports team keychain_.
 </p>
 
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Inventor/blob/main/Session%20Files/Session%202/Homer%20Coin.png" width="500"> 
+
+**Figure:** _(In-person Session 2) A Homer Simpson coin_.
+</p>
+
 ([ back to top ](#back_to_top))
 
 ---
