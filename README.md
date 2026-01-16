@@ -102,7 +102,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 
 **Session Recordings:** 
 * Asynchronous: https://youtu.be/6GsYKl3T72c.
-* In-person: To be posted.
+* In-person: https://youtu.be/P5rE2V1jRwc.
 
 **Session Slides and File Parts:** Available at the [Session 2](https://github.com/andyeske/How-to-CAD-Inventor/tree/main/Session%20Files/Session%202) folder.
 
