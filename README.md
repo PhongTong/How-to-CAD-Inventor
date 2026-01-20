@@ -191,6 +191,24 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 **Figure:** _A model of the Taipei 101_.
 </p>
 
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Inventor/blob/main/Session%20Files/Session%203/Plant.png" width="500"> 
+
+**Figure:** _(In-person Session 3) A metallic plant_!
+</p>
+
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Inventor/blob/main/Session%20Files/Session%203/Lamp.png" width="500"> 
+
+**Figure:** _(In-person Session 3) A simple desk lamp_.
+</p>
+
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Inventor/blob/main/Session%20Files/Session%203/Oriental%20Pearl%20Tower.png" width="500"> 
+
+**Figure:** _(In-person Session 3) A model of the Oriental Pearl Tower_.
+</p>
+
 ---
 <a name="S3half"></a>
 ### Session 3.5: Entering the VR World, Part I
