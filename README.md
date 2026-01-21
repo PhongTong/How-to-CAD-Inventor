@@ -222,6 +222,8 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 **Session Recordings:** 
 * In-person: To be posted.
 
+**VR Files:** Available at the [FBX Files](https://github.com/andyeske/How-to-CAD-Inventor/tree/main/Session%20Files/FBX%20Files) folder.
+
 ([ back to top ](#back_to_top))
 
 ---
@@ -354,6 +356,8 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 
 **Session Recordings:** 
 * In-person: To be posted.
+
+**VR Files:** Available at the [FBX Files](https://github.com/andyeske/How-to-CAD-Inventor/tree/main/Session%20Files/FBX%20Files) folder.
 
 ([ back to top ](#back_to_top))
 
