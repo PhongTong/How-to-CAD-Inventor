@@ -356,7 +356,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 * Learning how to transform objects from Inventor into a format suitable for VR. Succinctly:
   * Save the part in Inventor as a .step file.
   * Open the part in a rendering software such as Solidworks Visualize.
-  * Export the file part as a .fbx file.
+  * Export the part as a .fbx file.
 
 **Session Recordings:** 
 * In-person: To be posted.
