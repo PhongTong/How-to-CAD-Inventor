@@ -214,9 +214,8 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 ### Session 3.5: Entering the VR World, Part I
 (Wednesday, January 21)
 
-**Objective:** In this session, we’ll start work to visualize our CAD objects from S1 – S3 with VR using the software Unity. Session 3.5’s goals include: 
+**Objective:** In this session, we’ll start work visualizing our CAD objects with VR using the software Unity. Session 3.5’s goals include: 
 * Familiarizing ourselves with the Unity interface.
-* Learning how to transform objects from Inventor into a format suitable for VR.
 * Learning how to implement the open-source [VR template](https://github.com/mojohn23/CAD2VR).
 
 **Session Recordings:** 
@@ -350,9 +349,14 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 ### Session 5.5: Entering the VR World, Part II
 (Wednesday, January 28)
 
-**Objective:** In this session, we’ll continue work visualizing our CAD objects from S4 – S5 with VR. Session 5.5’s goals include: 
+**Objective:** In this session, we’ll continue work visualizing our CAD objects using VR. Session 5.5’s goals include: 
 * Modifying parameters of the open-source [VR template](https://github.com/mojohn23/CAD2VR).
-* Learning how to use “grabbable” objects. 
+* Learning how to use “grabbable” objects.
+* Working on a "design-a-refrigerator" challenge, iterating through the design process using VR.
+* Learning how to transform objects from Inventor into a format suitable for VR. Succinctly:
+  * Save the part in Inventor as a .step file.
+  * Open the part in a rendering software such as Solidworks Visualize.
+  * Export the file part as a .fbx file.
 
 **Session Recordings:** 
 * In-person: To be posted.
