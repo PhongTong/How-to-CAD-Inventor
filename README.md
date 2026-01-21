@@ -175,7 +175,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 
 **Session Recordings:** 
 * Asynchronous: https://youtu.be/t-OKwo2i36s.
-* In-person: To be posted.
+* In-person: https://youtu.be/EqoGdjvrZoM.
 
 **Session Slides and File Parts:** Available at the [Session 3](https://github.com/andyeske/How-to-CAD-Inventor/tree/main/Session%20Files/Session%203) folder. The Taipei 101 file is very heavy, so it is instead available [here](https://mitprod-my.sharepoint.com/:u:/g/personal/andyeske_mit_edu/IQBKfoCuudyOTZPz2SiLO8x_ATtbAMR837x8pGTNdh4rzno?e=UJQfSZ).
 
