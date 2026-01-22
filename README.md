@@ -219,7 +219,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 * Learning how to implement the open-source [VR template](https://github.com/mojohn23/CAD2VR).
 
 **Session Recordings:** 
-* In-person: https://youtu.be/SGkGRrQAGqM.
+* In-person: https://youtu.be/tvpEH0_N4hg.
 
 **VR Files:** Available at the [FBX Files](https://github.com/andyeske/How-to-CAD-Inventor/tree/main/Session%20Files/FBX%20Files) folder.
 
