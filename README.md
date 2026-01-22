@@ -256,6 +256,12 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 **Figure:** _A Play Station 1 (dualshock) controller_.
 </p>
 
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Inventor/blob/main/Session%20Files/Session%204/Natural%20Trumpet.png" width="500"> 
+
+**Figure:** _(In-person Session 4) A natural (valveless) trumpet_.
+</p>
+
 ([ back to top ](#back_to_top))
 
 ---
