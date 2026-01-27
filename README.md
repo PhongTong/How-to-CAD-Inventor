@@ -348,6 +348,18 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 **Figure:** _An engineering drawing of the playmobil figure assembly_.
 </p>
 
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Inventor/blob/main/Session%20Files/Session%205/CAD%20Brick.png" width="500"> 
+
+**Figure:** _(In-person Session 5) A "CAD"-branded brick_.
+</p>
+
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Inventor/blob/main/Session%20Files/Session%205/CAD%20Brick%20Staircase.png" width="500"> 
+
+**Figure:** _(In-person Session 5) A "CAD" brick spiraling staircase_.
+</p>
+
 ([ back to top ](#back_to_top))
 
 ---
