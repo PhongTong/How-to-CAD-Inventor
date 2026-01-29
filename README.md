@@ -425,6 +425,24 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 **Figure:** _Mock cabin with the 3-abreast configuration - inner view_.
 </p>
 
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Inventor/blob/main/Session%20Files/Session%206/Screw.png" width="500"> 
+
+**Figure:** _(In-person Session 6) A parametric screw (with modifiable pitch, height, and diameters)_!
+</p>
+
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Inventor/blob/main/Session%20Files/Session%206/Chair.png" width="500"> 
+
+**Figure:** _(In-person Session 6) A parametric chair (with modifiable height, number of legs, and diameter)_!
+</p>
+
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Inventor/blob/main/Session%20Files/Session%206/Parametric%20Fuselage.png" width="500"> 
+
+**Figure:** _(In-person Session 6) A parametric fuselage (with modifiable diameter, number of windows, and number of exits)_!
+</p>
+
 ([ back to top ](#back_to_top))
 
 ## Pictures/Hall of Fame
