@@ -377,7 +377,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
   * Export the part as a .fbx file.
 
 **Session Recordings:** 
-* In-person: To be posted.
+* In-person: https://youtu.be/RjhsF6H8BUs.
 
 **VR Files:** Available at the [FBX Files](https://github.com/andyeske/How-to-CAD-Inventor/tree/main/Session%20Files/FBX%20Files) folder.
 
