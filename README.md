@@ -462,7 +462,7 @@ Here are some pictures from the IAP 2026 workshop!
 </p>
 
 <p align="left">
-<img src="https://github.com/andyeske/How-to-CAD-Inventor/blob/main/Session%20Files/Mis/Session%203.jpeg" width="500"> 
+<img src="https://github.com/andyeske/How-to-CAD-Inventor/blob/main/Session%20Files/Mis/Session%205.5.jpeg" width="500"> 
 
 **Figure:** _Memories from in-person Session 5.5: VR part 2_!
 </p>
